@@ -1,2 +1,18 @@
 // @import "bootstrap/scss/bootstrap";
 @import "components/index";
+
+// Text elements
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+a {
+  color: black;
+  letter-spacing: .4px;
+  font-weight: lighter;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: lighter;
+}
